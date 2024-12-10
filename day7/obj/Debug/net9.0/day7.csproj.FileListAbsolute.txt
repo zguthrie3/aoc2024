@@ -1,0 +1,14 @@
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\bin\Debug\net9.0\day7.exe
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\bin\Debug\net9.0\day7.deps.json
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\bin\Debug\net9.0\day7.runtimeconfig.json
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\bin\Debug\net9.0\day7.dll
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\bin\Debug\net9.0\day7.pdb
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\obj\Debug\net9.0\day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\obj\Debug\net9.0\day7.AssemblyInfoInputs.cache
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\obj\Debug\net9.0\day7.AssemblyInfo.cs
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\obj\Debug\net9.0\day7.csproj.CoreCompileInputs.cache
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\obj\Debug\net9.0\day7.dll
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\obj\Debug\net9.0\refint\day7.dll
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\obj\Debug\net9.0\day7.pdb
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\obj\Debug\net9.0\day7.genruntimeconfig.cache
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day7\obj\Debug\net9.0\ref\day7.dll
