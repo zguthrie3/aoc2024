@@ -12,3 +12,4 @@ C:\Users\Zach G\OneDrive\Documents\aoc2024\day5\obj\Debug\net9.0\refint\day5.dll
 C:\Users\Zach G\OneDrive\Documents\aoc2024\day5\obj\Debug\net9.0\day5.pdb
 C:\Users\Zach G\OneDrive\Documents\aoc2024\day5\obj\Debug\net9.0\day5.genruntimeconfig.cache
 C:\Users\Zach G\OneDrive\Documents\aoc2024\day5\obj\Debug\net9.0\ref\day5.dll
+C:\Users\Zach G\OneDrive\Documents\aoc2024\day5\obj\Debug\net9.0\day5.sourcelink.json
